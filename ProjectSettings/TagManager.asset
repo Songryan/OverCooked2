@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - focus
+  - stage1
+  - stage3
+  - Station
+  - CounterTop
+  - Return
+  - Plate
+  - Bin
+  - Craft
+  - Bus
+  - StageUi
+  - Ingredient
+  - Pot
+  - Pan
+  - Stair
+  - Oven
+  - Post_Processing
+  - MineCounter
+  - WizardCounter
+  - satge2
+  - Cooker
+  - stage2
+  - Floor
+  - MineBoard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostPro
+  - Water
+  - UI
+  - UI Mask
+  - 
+  - Player
+  - Floor
+  - Travelator
+  - KillPlane
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
